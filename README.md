@@ -2,8 +2,7 @@
 import java.util.*;
 import java.io.*;
 public class Collections{
-
-     public static void main(String []args) throws Exception{
+    public static void main(String []args) throws Exception{
     ArrayList<Integer> al=new ArrayList<Integer>();
     al.add(10);
     al.add(8);
